@@ -1,0 +1,35 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_BD0CF582_AEE4_CE55_419A_AAA16291B2E2.url = https://www.instagram.com/section_architecture/
+PopupWebFrameBehaviour_6A9AF3C5_70AE_5B4F_41D7_D78B95474E44.url = https://www.instagram.com/section_architecture/
+PopupWebFrameBehaviour_6A9BF3C3_70AE_5B4B_41D5_16C770DAD089.url = www.hitimperial.com
+PopupWebFrameBehaviour_6085614B_709E_D744_41D0_A8B91EADA308.url = www.hitimperial.com
+
+## Media
+
+### Title
+panorama_672613B8_70AA_5BC5_41B4_1E053E9334F4.label = 07
+panorama_666BCA41_70AA_5547_41D9_638A74070445.label = 19
+panorama_666A4752_70AA_7B45_41CD_E665960609D7.label = 21
+panorama_666A2DA4_70AA_6FCD_41B6_09820B252BB0.label = 22
+panorama_666A145D_70AA_5D7F_41CD_58ADFD6990F7.label = 23
+panorama_666A1B3F_70AA_AB3C_41C1_8A4D6379987A.label = 24
+
+## Skin
+
+### Image
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_en.png
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile_en.png
+
+## Tour
+
+### Description
+tour.description = "SECTION ARCHITECTURE" sh.p.k
+
+### Title
+tour.name = "SECTION ARCHITECTURE" sh.p.k
