@@ -1,0 +1,48 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_A3733FF3_B9AE_921D_41DF_E2CE93A40121.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_CE29F6CA_AECD_9168_41BC_962FCF336295.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_CFFBF983_AECC_93D8_41DE_1D4AA4599364.source = https://www.facebook.com/hitimperial
+LinkBehaviour_A37C8FF2_B9AE_921F_41C2_547D3DF363D8.source = https://www.facebook.com/hitimperial
+
+## Media
+
+### Title
+panorama_B50F8012_B96A_8E1F_41D5_C218C1A737F5.label = 13
+panorama_B23489B0_B96A_9E1B_41E6_D8E03854D653.label = 15
+panorama_B23B5310_B96A_F21B_41D8_50198D82D9AA.label = 16
+panorama_B23A9C3E_B96A_F607_41B6_BA45BEAA3F3A.label = 17
+panorama_B23AD55B_B96A_960D_41D9_16796EC8CFE9.label = 18
+panorama_B23A9E70_B96A_921B_41D4_E897B64398A6.label = 19
+panorama_B23A976B_B96A_B20D_41D5_CB51C33A5D68.label = 20
+panorama_B23A70CC_B96A_8E0A_41E6_DA6985577F5B.label = 21
+panorama_B23A79A6_B96A_9E07_41E2_89EAE06F2668.label = 22
+panorama_B23A2248_B96A_720B_41D0_56695E6B5A12.label = 23
+panorama_B23A0B86_B96A_7207_41CE_C16FF144A7F7.label = 24
+panorama_B239F468_B969_960B_41DE_FF200D4F09A6.label = 25
+panorama_B23E0D97_B969_9605_41E3_18C3B6A603CC.label = 26
+panorama_B23E26DE_B969_B207_41C4_E2796E22396B.label = 27
+panorama_B23E5FE2_B969_B23F_41C1_CE9162B9AB50.label = 31 a
+panorama_B23E587A_B969_9E0F_41B0_5E50CBE38FBE.label = 35 a
+panorama_B23E6123_B969_8E3E_41CE_46EA9434A752.label = 36 a
+panorama_B23E8A1F_B969_F205_41D6_8D9176B98FA7.label = 37 a
+panorama_B23ED2C9_B969_920A_41E1_162FDE9960DB.label = 38a
+
+## Skin
+
+### Image
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_en.png
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile_en.png
+
+## Tour
+
+### Description
+tour.description = "SECTION ARCHITECTURE" sh.p.k
+
+### Title
+tour.name = "SECTION ARCHITECTURE" sh.p.k
